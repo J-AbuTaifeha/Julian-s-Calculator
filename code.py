@@ -18,7 +18,7 @@ def calculator():
         else:
             print("Error: Division by zero!")
     else:
-        print("Invalid operator! You didn't know that I've also hacked your bot? Try to use it ;)")
+        print("Invalid operator!")
 
 if __name__ == "__main__":
     calculator()
